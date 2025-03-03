@@ -1,0 +1,9 @@
+{
+    "name": "heloo",
+    "age": 25,
+    "gender": "Male",
+    "height": 200,
+    "weight": 85,
+    "activity": "Sedentary",
+    "goal": "Lose Weight"
+}
